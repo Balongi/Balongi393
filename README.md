@@ -27,14 +27,17 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 💻 GitHub Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balongi&layout=compact&theme=radical)](https://github.com/Balongi)
+### 📊 GitHub Profile Stats (Working Widget)
+![GitHub Profile Stats](https://ghstats.dev/api/card?username=Balongi&theme=tokyonight)
 
-### 📊 GitHub Stats:
-[![Balongi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balongi&show_icons=true&theme=radical)](https://github.com/Balongi)
+### 📈 Top Languages (Working Widget)
+![Top Languages](https://ghstats.dev/api/top-langs?username=Balongi&theme=tokyonight)
+
+### 👁️ Visitor Counter
+![Visitor Count](https://badges.pufler.dev/visits/Balongi)
 
 ### 📝 My Repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balongi&repo=Unity-Sound-Manager&theme=radical)](https://github.com/Balongi/Unity-Sound-Manager)
+[![Readme Card](https://ghstats.dev/api/pin?username=Balongi&repo=Unity-Sound-Manager&theme=tokyonight)](https://github.com/Balongi/Unity-Sound-Manager)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
