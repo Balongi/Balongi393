@@ -27,17 +27,23 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 📊 GitHub Profile Stats (Working Widget)
-![GitHub Profile Stats](https://ghstats.dev/api/card?username=Balongi&theme=tokyonight)
+### 📊 GitHub Profile Stats (Working)
+![GitHub Stats](https://readme-stats-github.pages.dev/api?username=Balongi&theme=shadow)
 
-### 📈 Top Languages (Working Widget)
-![Top Languages](https://ghstats.dev/api/top-langs?username=Balongi&theme=tokyonight)
+### 🧠 Top Languages (Working)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Balongi&theme=shadow)
 
-### 👁️ Visitor Counter
-![Visitor Count](https://badges.pufler.dev/visits/Balongi)
+### 📌 Repository Stats (Working)
+![Unity Sound Manager Stats](https://readme-stats-github.pages.dev/api/repo?username=Balongi&repo=Unity-Sound-Manager&theme=shadow)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Balongi&theme=dark)
+
+### 📅 Latest Activity Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Balongi&theme=react-dark&hide_border=true)
 
 ### 📝 My Repos:
-[![Readme Card](https://ghstats.dev/api/pin?username=Balongi&repo=Unity-Sound-Manager&theme=tokyonight)](https://github.com/Balongi/Unity-Sound-Manager)
+- [Unity Sound Manager](https://github.com/Balongi/Unity-Sound-Manager)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
